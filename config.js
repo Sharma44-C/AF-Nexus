@@ -1,12 +1,10 @@
 export default {
-  "botName": "Nexus",
-  "prefix": ".",
-  "nickname": "Nexusbot",
+  "botName": "Kai",
+  "prefix": "!",
+  "nickname": "Kai",
   "adminIds": [
-    "100062160914296",
-    "61557780285734",
-    "100075528791428",
-    "61571509256532"
+    "100092503144500",
+    "61565027698084"
   ],
   "facebookAccount": {
     "email": "bultelakku@gufum.com",
