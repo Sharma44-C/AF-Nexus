@@ -1,10 +1,10 @@
 export default {
-  "botName": "Kai",
+  "botName": "James",
   "prefix": "!",
-  "nickname": "Kai",
+  "nickname": "James",
   "adminIds": [
     "100092503144500",
-    "61565027698084"
+   ""
   ],
   "facebookAccount": {
     "email": "bultelakku@gufum.com",
